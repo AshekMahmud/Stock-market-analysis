@@ -40,7 +40,6 @@
 3. **Figure 3:** Dividend impact on stock performance.
 4. **Figure 4:** Comparative stock performance analysis.
 5. **Figure 5:** Historical volatility evaluation.
-6. **Figure 6:** Sharpe ratio calculation.
-7. **Figure 7:** Comparative Sharpe ratio analysis.
-8. **Figure 8:** Annual volatility vs. annual return graph.
+6. **Figure 6:** Comparative Sharpe ratio analysis.
+7. **Figure 7:** Annual volatility vs. annual return graph.
 
